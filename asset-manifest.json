@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/E-commerse-Carzone/static/css/main.e9defb2b.css",
+    "main.js": "/E-commerse-Carzone/static/js/main.819b1fd1.js",
+    "static/js/787.87534a1d.chunk.js": "/E-commerse-Carzone/static/js/787.87534a1d.chunk.js",
+    "static/media/carzone_background.jpg": "/E-commerse-Carzone/static/media/carzone_background.e313a4a91ef789258e1f.jpg",
+    "index.html": "/E-commerse-Carzone/index.html",
+    "main.e9defb2b.css.map": "/E-commerse-Carzone/static/css/main.e9defb2b.css.map",
+    "main.819b1fd1.js.map": "/E-commerse-Carzone/static/js/main.819b1fd1.js.map",
+    "787.87534a1d.chunk.js.map": "/E-commerse-Carzone/static/js/787.87534a1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9defb2b.css",
+    "static/js/main.819b1fd1.js"
+  ]
+}
